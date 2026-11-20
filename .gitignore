@@ -221,6 +221,7 @@ __marimo__/
 
 # Generated figures and macOS metadata
 /output/
+!/output/instructions.txt
 .DS_Store
 
 # Downloaded and extracted Zenodo data
