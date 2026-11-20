@@ -219,6 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
+_archive
+
 # Generated figures and macOS metadata
 /output/*
 !/output/instructions.txt
