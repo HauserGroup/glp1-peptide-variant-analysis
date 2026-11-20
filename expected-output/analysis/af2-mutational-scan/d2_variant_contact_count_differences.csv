@@ -1,0 +1,590 @@
+variant,wt_unique_rec_residues,wt_total_unique_contacts,var_unique_rec_residues,var_total_unique_contacts,delta_unique_rec_residues,delta_total_unique_contacts,n_lost_receptor_contacts,n_new_receptor_contacts,lost_receptor_contacts,new_receptor_contacts,wt_contact_list,var_contact_list
+A24C,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24D,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24E,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24F,3,3,6,6,3,3,0,3,,ALA 186;MET 181;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 186|PHE 18|Hydrophobic;LEU 194|PHE 18|Hydrophobic;LEU 9|PHE 18|Hydrophobic;MET 181|PHE 18|Hydrophobic;TRP 191|PHE 18|Hydrophobic;TYR 182|PHE 18|Hydrophobic
+A24G,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24H,3,3,1,1,-2,-2,3,1,LEU 194;LEU 9;TRP 191,TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,TYR 182|HIS 18|Hydrogen Bond
+A24I,3,3,6,6,3,3,0,3,,ALA 185;ALA 186;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 185|ILE 18|Hydrophobic;ALA 186|ILE 18|Hydrophobic;LEU 194|ILE 18|Hydrophobic;LEU 9|ILE 18|Hydrophobic;TRP 191|ILE 18|Hydrophobic;TYR 182|ILE 18|Hydrophobic
+A24K,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24L,3,3,5,5,2,2,0,2,,ALA 186;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 186|LEU 18|Hydrophobic;LEU 194|LEU 18|Hydrophobic;LEU 9|LEU 18|Hydrophobic;TRP 191|LEU 18|Hydrophobic;TYR 182|LEU 18|Hydrophobic
+A24M,3,3,4,4,1,1,1,2,LEU 194,ALA 186;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 186|MET 18|Hydrophobic;LEU 9|MET 18|Hydrophobic;TRP 191|MET 18|Hydrophobic;TYR 182|MET 18|Hydrophobic
+A24N,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24P,3,3,6,6,3,3,0,3,,ALA 186;MET 181;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 186|PRO 18|Hydrophobic;LEU 194|PRO 18|Hydrophobic;LEU 9|PRO 18|Hydrophobic;MET 181|PRO 18|Hydrophobic;TRP 191|PRO 18|Hydrophobic;TYR 182|PRO 18|Hydrophobic
+A24Q,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24R,3,3,1,1,-2,-2,3,1,LEU 194;LEU 9;TRP 191,TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,TYR 182|ARG 18|Hydrogen Bond
+A24S,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24T,3,3,0,0,-3,-3,3,0,LEU 194;LEU 9;TRP 191,,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,
+A24V,3,3,5,5,2,2,0,2,,ALA 186;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 186|VAL 18|Hydrophobic;LEU 194|VAL 18|Hydrophobic;LEU 9|VAL 18|Hydrophobic;TRP 191|VAL 18|Hydrophobic;TYR 182|VAL 18|Hydrophobic
+A24W,3,3,6,6,3,3,0,3,,ALA 185;MET 181;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 185|TRP 18|Hydrophobic;LEU 194|TRP 18|Hydrophobic;LEU 9|TRP 18|Hydrophobic;MET 181|TRP 18|Hydrophobic;TRP 191|TRP 18|Hydrophobic;TYR 182|TRP 18|Hydrophobic
+A24Y,3,3,6,7,3,4,0,3,,ALA 185;ALA 186;TYR 182,LEU 194|ALA 18|Hydrophobic;LEU 9|ALA 18|Hydrophobic;TRP 191|ALA 18|Hydrophobic,ALA 185|TYR 18|Hydrophobic;ALA 186|TYR 18|Hydrophobic;LEU 194|TYR 18|Hydrophobic;LEU 9|TYR 18|Hydrophobic;TRP 191|TYR 18|Hydrophobic;TYR 182|TYR 18|Hydrogen Bond;TYR 182|TYR 18|Hydrophobic
+A25C,3,3,2,2,-1,-1,2,1,PRO 67;VAL 7,SER 8,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|CYS 19|Hydrogen Bond;SER 8|CYS 19|Hydrogen Bond
+A25D,3,3,2,2,-1,-1,2,1,LEU 9;PRO 67,THR 12,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,THR 12|ASP 19|Hydrogen Bond;VAL 7|ASP 19|Hydrogen Bond
+A25E,3,3,1,1,-2,-2,3,1,LEU 9;PRO 67;VAL 7,THR 12,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,THR 12|GLU 19|Hydrogen Bond
+A25F,3,3,4,4,1,1,0,1,,TRP 68,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|PHE 19|Hydrophobic;PRO 67|PHE 19|Hydrophobic;TRP 68|PHE 19|Hydrophobic;VAL 7|PHE 19|Hydrophobic
+A25G,3,3,0,0,-3,-3,3,0,LEU 9;PRO 67;VAL 7,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,
+A25H,3,3,1,1,-2,-2,2,0,LEU 9;PRO 67,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,VAL 7|HIS 19|Hydrogen Bond
+A25I,3,3,3,3,0,0,0,0,,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|ILE 19|Hydrophobic;PRO 67|ILE 19|Hydrophobic;VAL 7|ILE 19|Hydrophobic
+A25K,3,3,1,1,-2,-2,2,0,LEU 9;PRO 67,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,VAL 7|LYS 19|Hydrogen Bond
+A25L,3,3,3,3,0,0,0,0,,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|LEU 19|Hydrophobic;PRO 67|LEU 19|Hydrophobic;VAL 7|LEU 19|Hydrophobic
+A25M,3,3,4,5,1,2,0,1,,THR 12,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|MET 19|Hydrophobic;PRO 67|MET 19|Hydrophobic;THR 12|MET 19|Hydrogen Bond;VAL 7|MET 19|Hydrogen Bond;VAL 7|MET 19|Hydrophobic
+A25N,3,3,2,2,-1,-1,1,0,PRO 67,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|ASN 19|Hydrogen Bond;VAL 7|ASN 19|Hydrogen Bond
+A25P,3,3,3,3,0,0,0,0,,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|PRO 19|Hydrophobic;PRO 67|PRO 19|Hydrophobic;VAL 7|PRO 19|Hydrophobic
+A25Q,3,3,3,3,0,0,2,2,LEU 9;PRO 67,SER 8;THR 12,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,SER 8|GLN 19|Hydrogen Bond;THR 12|GLN 19|Hydrogen Bond;VAL 7|GLN 19|Hydrogen Bond
+A25R,3,3,1,1,-2,-2,2,0,LEU 9;PRO 67,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,VAL 7|ARG 19|Hydrogen Bond
+A25S,3,3,1,1,-2,-2,3,1,LEU 9;PRO 67;VAL 7,THR 12,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,THR 12|SER 19|Hydrogen Bond
+A25T,3,3,1,1,-2,-2,2,0,PRO 67;VAL 7,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|THR 19|Hydrogen Bond
+A25V,3,3,3,3,0,0,0,0,,,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|VAL 19|Hydrophobic;PRO 67|VAL 19|Hydrophobic;VAL 7|VAL 19|Hydrophobic
+A25W,3,3,4,5,1,2,0,1,,TRP 68,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|TRP 19|Hydrophobic;PRO 67|TRP 19|Hydrophobic;TRP 68|TRP 19|Hydrophobic;VAL 7|TRP 19|Hydrogen Bond;VAL 7|TRP 19|Hydrophobic
+A25Y,3,3,4,4,1,1,0,1,,TRP 68,LEU 9|ALA 19|Hydrophobic;PRO 67|ALA 19|Hydrophobic;VAL 7|ALA 19|Hydrophobic,LEU 9|TYR 19|Hydrophobic;PRO 67|TYR 19|Hydrophobic;TRP 68|TYR 19|Hydrophobic;VAL 7|TYR 19|Hydrophobic
+A30C,0,0,0,0,0,0,0,0,,,,
+A30D,0,0,0,0,0,0,0,0,,,,
+A30E,0,0,0,0,0,0,0,0,,,,
+A30F,0,0,1,1,1,1,0,1,,TRP 68,,TRP 68|PHE 24|Hydrophobic
+A30G,0,0,0,0,0,0,0,0,,,,
+A30H,0,0,0,0,0,0,0,0,,,,
+A30I,0,0,0,0,0,0,0,0,,,,
+A30K,0,0,0,0,0,0,0,0,,,,
+A30L,0,0,0,0,0,0,0,0,,,,
+A30M,0,0,1,1,1,1,0,1,,TRP 68,,TRP 68|MET 24|Hydrophobic
+A30N,0,0,0,0,0,0,0,0,,,,
+A30P,0,0,0,0,0,0,0,0,,,,
+A30Q,0,0,0,0,0,0,0,0,,,,
+A30R,0,0,0,0,0,0,0,0,,,,
+A30S,0,0,0,0,0,0,0,0,,,,
+A30T,0,0,0,0,0,0,0,0,,,,
+A30V,0,0,0,0,0,0,0,0,,,,
+A30W,0,0,0,0,0,0,0,0,,,,
+A30Y,0,0,1,1,1,1,0,1,,TRP 68,,TRP 68|TYR 24|Hydrophobic
+A8C,1,1,1,1,0,0,1,1,LEU 365,GLU 364,LEU 365|ALA 2|Hydrophobic,GLU 364|CYS 2|Hydrogen Bond
+A8D,1,1,3,3,2,2,1,3,LEU 365,ARG 167;GLU 364;THR 368,LEU 365|ALA 2|Hydrophobic,ARG 167|ASP 2|Ionic Interaction;GLU 364|ASP 2|Hydrogen Bond;THR 368|ASP 2|Hydrogen Bond
+A8E,1,1,2,3,1,2,1,2,LEU 365,ARG 167;THR 368,LEU 365|ALA 2|Hydrophobic,ARG 167|GLU 2|Hydrogen Bond;ARG 167|GLU 2|Ionic Interaction;THR 368|GLU 2|Hydrogen Bond
+A8F,1,1,2,2,1,1,1,2,LEU 365,ALA 345;PHE 344,LEU 365|ALA 2|Hydrophobic,ALA 345|PHE 2|Hydrophobic;PHE 344|PHE 2|Hydrophobic
+A8G,1,1,1,1,0,0,1,1,LEU 365,GLU 364,LEU 365|ALA 2|Hydrophobic,GLU 364|GLY 2|Hydrogen Bond
+A8H,1,1,3,3,2,2,1,3,LEU 365,GLU 341;GLU 364;THR 368,LEU 365|ALA 2|Hydrophobic,GLU 341|HIS 2|Salt Bridge;GLU 364|HIS 2|Hydrogen Bond;THR 368|HIS 2|Hydrogen Bond
+A8I,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|ILE 2|Hydrophobic;LEU 365|ILE 2|Hydrophobic
+A8K,1,1,1,2,0,1,1,1,LEU 365,GLU 341,LEU 365|ALA 2|Hydrophobic,GLU 341|LYS 2|Hydrogen Bond;GLU 341|LYS 2|Salt Bridge
+A8L,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|LEU 2|Hydrophobic;LEU 365|LEU 2|Hydrophobic
+A8M,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|MET 2|Hydrophobic;LEU 365|MET 2|Hydrophobic
+A8N,1,1,1,1,0,0,1,1,LEU 365,GLU 364,LEU 365|ALA 2|Hydrophobic,GLU 364|ASN 2|Hydrogen Bond
+A8P,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|PRO 2|Hydrophobic;LEU 365|PRO 2|Hydrophobic
+A8Q,1,1,1,1,0,0,1,1,LEU 365,GLU 364,LEU 365|ALA 2|Hydrophobic,GLU 364|GLN 2|Hydrogen Bond
+A8R,1,1,2,4,1,3,1,2,LEU 365,ASP 349;GLU 364,LEU 365|ALA 2|Hydrophobic,ASP 349|ARG 2|Hydrogen Bond;ASP 349|ARG 2|Salt Bridge;GLU 364|ARG 2|Hydrogen Bond;GLU 364|ARG 2|Salt Bridge
+A8S,1,1,0,0,-1,-1,1,0,LEU 365,,LEU 365|ALA 2|Hydrophobic,
+A8T,1,1,1,1,0,0,1,1,LEU 365,GLU 364,LEU 365|ALA 2|Hydrophobic,GLU 364|THR 2|Hydrogen Bond
+A8V,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|VAL 2|Hydrophobic;LEU 365|VAL 2|Hydrophobic
+A8W,1,1,2,2,1,1,0,1,,LEU 361,LEU 365|ALA 2|Hydrophobic,LEU 361|TRP 2|Hydrophobic;LEU 365|TRP 2|Hydrophobic
+A8Y,1,1,2,2,1,1,0,1,,GLU 341,LEU 365|ALA 2|Hydrophobic,GLU 341|TYR 2|Hydrogen Bond;LEU 365|TYR 2|Hydrophobic
+D15A,1,2,1,1,0,-1,1,1,ARG 357,LEU 118,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|ALA 9|Hydrophobic
+D15C,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15E,1,2,1,2,0,0,0,0,,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,ARG 357|GLU 9|Hydrogen Bond;ARG 357|GLU 9|Ionic Interaction
+D15F,1,2,2,2,1,0,1,2,ARG 357,LEU 118;LEU 361,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|PHE 9|Hydrophobic;LEU 361|PHE 9|Hydrophobic
+D15G,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15H,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15I,1,2,2,2,1,0,1,2,ARG 357,LEU 118;LEU 361,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|ILE 9|Hydrophobic;LEU 361|ILE 9|Hydrophobic
+D15K,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15L,1,2,2,2,1,0,1,2,ARG 357,LEU 118;LEU 361,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|LEU 9|Hydrophobic;LEU 361|LEU 9|Hydrophobic
+D15M,1,2,1,1,0,-1,1,1,ARG 357,LEU 118,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|MET 9|Hydrophobic
+D15N,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15P,1,2,1,1,0,-1,1,1,ARG 357,LEU 118,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|PRO 9|Hydrophobic
+D15Q,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15R,1,2,1,1,0,-1,1,1,ARG 357,GLN 117,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,GLN 117|ARG 9|Hydrogen Bond
+D15S,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15T,1,2,0,0,-1,-2,1,0,ARG 357,,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,
+D15V,1,2,1,1,0,-1,1,1,ARG 357,LEU 118,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|VAL 9|Hydrophobic
+D15W,1,2,4,4,3,2,1,4,ARG 357,LEU 118;LEU 121;LEU 361;PRO 114,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|TRP 9|Hydrophobic;LEU 121|TRP 9|Hydrophobic;LEU 361|TRP 9|Hydrophobic;PRO 114|TRP 9|Hydrophobic
+D15Y,1,2,2,2,1,0,1,2,ARG 357,LEU 118;LEU 361,ARG 357|ASP 9|Hydrogen Bond;ARG 357|ASP 9|Ionic Interaction,LEU 118|TYR 9|Hydrophobic;LEU 361|TYR 9|Hydrophobic
+E21A,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|ALA 15|Hydrophobic
+E21C,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|CYS 15|Hydrogen Bond
+E21D,3,3,3,3,0,0,0,0,,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLN 198|ASP 15|Hydrogen Bond;LEU 9|ASP 15|Hydrogen Bond;TYR 182|ASP 15|Hydrogen Bond
+E21F,3,3,1,1,-2,-2,2,0,GLN 198;TYR 182,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,LEU 9|PHE 15|Hydrophobic
+E21G,3,3,0,0,-3,-3,3,0,GLN 198;LEU 9;TYR 182,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,
+E21H,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|HIS 15|Hydrogen Bond
+E21I,3,3,2,2,-1,-1,2,1,GLN 198;LEU 9,VAL 7,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|ILE 15|Hydrophobic;VAL 7|ILE 15|Hydrophobic
+E21K,3,3,1,2,-2,-1,3,1,GLN 198;LEU 9;TYR 182,GLU 271,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLU 271|LYS 15|Hydrogen Bond;GLU 271|LYS 15|Salt Bridge
+E21L,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|LEU 15|Hydrophobic
+E21M,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|MET 15|Hydrophobic
+E21N,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|ASN 15|Hydrogen Bond
+E21P,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|PRO 15|Hydrophobic
+E21Q,3,3,3,3,0,0,0,0,,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLN 198|GLN 15|Hydrogen Bond;LEU 9|GLN 15|Hydrogen Bond;TYR 182|GLN 15|Hydrogen Bond
+E21R,3,3,1,1,-2,-2,3,1,GLN 198;LEU 9;TYR 182,GLU 271,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLU 271|ARG 15|Hydrogen Bond
+E21S,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|SER 15|Hydrogen Bond
+E21T,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|THR 15|Hydrogen Bond
+E21V,3,3,1,1,-2,-2,2,0,GLN 198;LEU 9,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,TYR 182|VAL 15|Hydrophobic
+E21W,3,3,3,4,0,1,0,0,,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLN 198|TRP 15|Hydrogen Bond;LEU 9|TRP 15|Hydrophobic;TYR 182|TRP 15|Hydrogen Bond;TYR 182|TRP 15|Hydrophobic
+E21Y,3,3,3,3,0,0,0,0,,,GLN 198|GLU 15|Hydrogen Bond;LEU 9|GLU 15|Hydrogen Bond;TYR 182|GLU 15|Hydrogen Bond,GLN 198|TYR 15|Hydrogen Bond;LEU 9|TYR 15|Hydrophobic;TYR 182|TYR 15|Hydrophobic
+E27A,0,0,1,1,1,1,0,1,,TRP 191,,TRP 191|ALA 21|Hydrophobic
+E27C,0,0,0,0,0,0,0,0,,,,
+E27D,0,0,0,0,0,0,0,0,,,,
+E27F,0,0,2,2,2,2,0,2,,ALA 186;TRP 191,,ALA 186|PHE 21|Hydrophobic;TRP 191|PHE 21|Hydrophobic
+E27G,0,0,0,0,0,0,0,0,,,,
+E27H,0,0,1,1,1,1,0,1,,ALA 186,,ALA 186|HIS 21|Hydrogen Bond
+E27I,0,0,1,1,1,1,0,1,,TRP 191,,TRP 191|ILE 21|Hydrophobic
+E27K,0,0,0,0,0,0,0,0,,,,
+E27L,0,0,2,2,2,2,0,2,,ALA 186;TRP 191,,ALA 186|LEU 21|Hydrophobic;TRP 191|LEU 21|Hydrophobic
+E27M,0,0,2,2,2,2,0,2,,ALA 186;TRP 191,,ALA 186|MET 21|Hydrophobic;TRP 191|MET 21|Hydrophobic
+E27N,0,0,0,0,0,0,0,0,,,,
+E27P,0,0,1,1,1,1,0,1,,TRP 191,,TRP 191|PRO 21|Hydrophobic
+E27Q,0,0,0,0,0,0,0,0,,,,
+E27R,0,0,1,1,1,1,0,1,,TYR 182,,TYR 182|ARG 21|Hydrogen Bond
+E27S,0,0,0,0,0,0,0,0,,,,
+E27T,0,0,0,0,0,0,0,0,,,,
+E27V,0,0,2,2,2,2,0,2,,ALA 186;TRP 191,,ALA 186|VAL 21|Hydrophobic;TRP 191|VAL 21|Hydrophobic
+E27W,0,0,3,3,3,3,0,3,,ALA 186;TRP 191;TYR 182,,ALA 186|TRP 21|Hydrophobic;TRP 191|TRP 21|Hydrophobic;TYR 182|TRP 21|Hydrophobic
+E27Y,0,0,3,3,3,3,0,3,,ALA 186;HIS 189;TRP 191,,ALA 186|TYR 21|Hydrophobic;HIS 189|TYR 21|Hydrogen Bond;TRP 191|TYR 21|Hydrophobic
+E9A,2,2,1,1,-1,-1,2,1,LYS 174;TYR 129,LEU 365,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|ALA 3|Hydrophobic
+E9C,2,2,0,0,-2,-2,2,0,LYS 174;TYR 129,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,
+E9D,2,2,2,3,0,1,1,1,LYS 174,ARG 167,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,ARG 167|ASP 3|Hydrogen Bond;ARG 167|ASP 3|Ionic Interaction;TYR 129|ASP 3|Hydrogen Bond
+E9F,2,2,3,3,1,1,1,2,LYS 174,LEU 365;TYR 125,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|PHE 3|Hydrophobic;TYR 125|PHE 3|Hydrophobic;TYR 129|PHE 3|Hydrophobic
+E9G,2,2,0,0,-2,-2,2,0,LYS 174;TYR 129,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,
+E9H,2,2,1,1,-1,-1,1,0,LYS 174,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,TYR 129|HIS 3|Hydrogen Bond
+E9I,2,2,4,4,2,2,1,3,LYS 174,LEU 365;MET 210;VAL 171,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|ILE 3|Hydrophobic;MET 210|ILE 3|Hydrophobic;TYR 129|ILE 3|Hydrophobic;VAL 171|ILE 3|Hydrophobic
+E9K,2,2,1,1,-1,-1,1,0,LYS 174,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,TYR 129|LYS 3|Hydrogen Bond
+E9L,2,2,5,5,3,3,1,4,LYS 174,LEU 365;MET 210;VAL 171;VAL 214,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|LEU 3|Hydrophobic;MET 210|LEU 3|Hydrophobic;TYR 129|LEU 3|Hydrophobic;VAL 171|LEU 3|Hydrophobic;VAL 214|LEU 3|Hydrophobic
+E9M,2,2,4,4,2,2,1,3,LYS 174,LEU 365;TYR 125;VAL 171,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|MET 3|Hydrophobic;TYR 125|MET 3|Hydrophobic;TYR 129|MET 3|Hydrophobic;VAL 171|MET 3|Hydrophobic
+E9N,2,2,1,1,-1,-1,1,0,LYS 174,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,TYR 129|ASN 3|Hydrogen Bond
+E9P,2,2,2,2,0,0,2,2,LYS 174;TYR 129,LEU 365;MET 210,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|PRO 3|Hydrophobic;MET 210|PRO 3|Hydrophobic
+E9Q,2,2,2,2,0,0,1,1,LYS 174,ARG 167,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,ARG 167|GLN 3|Hydrogen Bond;TYR 129|GLN 3|Hydrogen Bond
+E9R,2,2,3,5,1,3,2,3,LYS 174;TYR 129,ASP 175;MET 210;TYR 125,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,ASP 175|ARG 3|Hydrogen Bond;ASP 175|ARG 3|Salt Bridge;MET 210|ARG 3|Hydrogen Bond;TYR 125|ARG 3|Hydrogen Bond;TYR 125|ARG 3|Pi-Cation
+E9S,2,2,0,0,-2,-2,2,0,LYS 174;TYR 129,,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,
+E9T,2,2,1,1,-1,-1,2,1,LYS 174;TYR 129,ARG 167,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,ARG 167|THR 3|Hydrogen Bond
+E9V,2,2,4,4,2,2,1,3,LYS 174,LEU 365;MET 210;VAL 171,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|VAL 3|Hydrophobic;MET 210|VAL 3|Hydrophobic;TYR 129|VAL 3|Hydrophobic;VAL 171|VAL 3|Hydrophobic
+E9W,2,2,5,6,3,4,1,4,LYS 174,LEU 365;THR 368;TYR 125;VAL 171,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|TRP 3|Hydrophobic;THR 368|TRP 3|Hydrogen Bond;TYR 125|TRP 3|Hydrophobic;TYR 129|TRP 3|Hydrogen Bond;TYR 129|TRP 3|Hydrophobic;VAL 171|TRP 3|Hydrophobic
+E9Y,2,2,5,7,3,5,1,4,LYS 174,LEU 365;THR 368;TYR 125;VAL 171,LYS 174|GLU 3|Ionic Interaction;TYR 129|GLU 3|Hydrogen Bond,LEU 365|TYR 3|Hydrogen Bond;LEU 365|TYR 3|Hydrophobic;THR 368|TYR 3|Hydrogen Bond;TYR 125|TYR 3|Hydrophobic;TYR 129|TYR 3|Hydrogen Bond;TYR 129|TYR 3|Hydrophobic;VAL 171|TYR 3|Hydrophobic
+F12A,6,6,1,1,-5,-5,5,0,LEU 118;LEU 121;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 361|ALA 6|Hydrophobic
+F12C,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12D,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12E,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12G,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12H,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12I,6,6,5,5,-1,-1,1,0,TYR 122,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 118|ILE 6|Hydrophobic;LEU 121|ILE 6|Hydrophobic;LEU 361|ILE 6|Hydrophobic;LEU 365|ILE 6|Hydrophobic;TYR 125|ILE 6|Hydrophobic
+F12K,6,6,1,1,-5,-5,5,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,TYR 125|LYS 6|Hydrogen Bond
+F12L,6,6,5,5,-1,-1,1,0,TYR 122,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 118|LEU 6|Hydrophobic;LEU 121|LEU 6|Hydrophobic;LEU 361|LEU 6|Hydrophobic;LEU 365|LEU 6|Hydrophobic;TYR 125|LEU 6|Hydrophobic
+F12M,6,6,6,6,0,0,0,0,,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 118|MET 6|Hydrophobic;LEU 121|MET 6|Hydrophobic;LEU 361|MET 6|Hydrophobic;LEU 365|MET 6|Hydrophobic;TYR 122|MET 6|Hydrophobic;TYR 125|MET 6|Hydrophobic
+F12N,6,6,1,1,-5,-5,5,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,TYR 125|ASN 6|Hydrogen Bond
+F12P,6,6,2,2,-4,-4,4,0,LEU 118;LEU 121;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 361|PRO 6|Hydrophobic;LEU 365|PRO 6|Hydrophobic
+F12Q,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12R,6,6,2,4,-4,-2,5,1,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122,ASP 175,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,ASP 175|ARG 6|Hydrogen Bond;ASP 175|ARG 6|Salt Bridge;TYR 125|ARG 6|Hydrogen Bond;TYR 125|ARG 6|Pi-Cation
+F12S,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12T,6,6,0,0,-6,-6,6,0,LEU 118;LEU 121;LEU 361;LEU 365;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,
+F12V,6,6,2,2,-4,-4,4,0,LEU 118;LEU 121;TYR 122;TYR 125,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 361|VAL 6|Hydrophobic;LEU 365|VAL 6|Hydrophobic
+F12W,6,6,6,7,0,1,0,0,,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 118|TRP 6|Hydrophobic;LEU 121|TRP 6|Hydrophobic;LEU 361|TRP 6|Hydrophobic;LEU 365|TRP 6|Hydrophobic;TYR 122|TRP 6|Hydrophobic;TYR 125|TRP 6|Hydrogen Bond;TYR 125|TRP 6|Hydrophobic
+F12Y,6,6,5,6,-1,0,1,0,TYR 122,,LEU 118|PHE 6|Hydrophobic;LEU 121|PHE 6|Hydrophobic;LEU 361|PHE 6|Hydrophobic;LEU 365|PHE 6|Hydrophobic;TYR 122|PHE 6|Hydrophobic;TYR 125|PHE 6|Hydrophobic,LEU 118|TYR 6|Hydrogen Bond;LEU 118|TYR 6|Hydrophobic;LEU 121|TYR 6|Hydrophobic;LEU 361|TYR 6|Hydrophobic;LEU 365|TYR 6|Hydrophobic;TYR 125|TYR 6|Hydrophobic
+F28A,4,4,2,2,-2,-2,2,0,TRP 16;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|ALA 22|Hydrophobic;TRP 191|ALA 22|Hydrophobic
+F28C,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28D,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28E,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28G,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28H,4,4,1,1,-3,-3,3,0,LEU 9;TRP 16;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,TRP 191|HIS 22|Pi-Cation
+F28I,4,4,3,3,-1,-1,1,0,TRP 16,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|ILE 22|Hydrophobic;TRP 191|ILE 22|Hydrophobic;VAL 13|ILE 22|Hydrophobic
+F28K,4,4,1,1,-3,-3,4,1,LEU 9;TRP 16;TRP 191;VAL 13,ASP 192,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,ASP 192|LYS 22|Salt Bridge
+F28L,4,4,3,3,-1,-1,1,0,TRP 16,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|LEU 22|Hydrophobic;TRP 191|LEU 22|Hydrophobic;VAL 13|LEU 22|Hydrophobic
+F28M,4,4,3,3,-1,-1,1,0,TRP 16,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|MET 22|Hydrophobic;TRP 191|MET 22|Hydrophobic;VAL 13|MET 22|Hydrophobic
+F28N,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28P,4,4,3,3,-1,-1,1,0,TRP 16,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|PRO 22|Hydrophobic;TRP 191|PRO 22|Hydrophobic;VAL 13|PRO 22|Hydrophobic
+F28Q,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28R,4,4,1,1,-3,-3,3,0,LEU 9;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,TRP 16|ARG 22|Pi-Cation
+F28S,4,4,0,0,-4,-4,4,0,LEU 9;TRP 16;TRP 191;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,
+F28T,4,4,1,1,-3,-3,3,0,LEU 9;TRP 16;VAL 13,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,TRP 191|THR 22|Hydrogen Bond
+F28V,4,4,3,3,-1,-1,1,0,TRP 16,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|VAL 22|Hydrophobic;TRP 191|VAL 22|Hydrophobic;VAL 13|VAL 22|Hydrophobic
+F28W,4,4,4,4,0,0,0,0,,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|TRP 22|Hydrophobic;TRP 16|TRP 22|Hydrophobic;TRP 191|TRP 22|Hydrophobic;VAL 13|TRP 22|Hydrophobic
+F28Y,4,4,4,4,0,0,0,0,,,LEU 9|PHE 22|Hydrophobic;TRP 16|PHE 22|Hydrophobic;TRP 191|PHE 22|Hydrophobic;VAL 13|PHE 22|Hydrophobic,LEU 9|TYR 22|Hydrophobic;TRP 16|TYR 22|Hydrophobic;TRP 191|TYR 22|Hydrophobic;VAL 13|TYR 22|Hydrophobic
+G10A,0,0,1,1,1,1,0,1,,TRP 283,,TRP 283|ALA 4|Hydrophobic
+G10C,0,0,0,0,0,0,0,0,,,,
+G10D,0,0,1,1,1,1,0,1,,GLN 211,,GLN 211|ASP 4|Hydrogen Bond
+G10E,0,0,2,2,2,2,0,2,,GLN 211;TRP 283,,GLN 211|GLU 4|Hydrogen Bond;TRP 283|GLU 4|Hydrogen Bond
+G10F,0,0,4,4,4,4,0,4,,ILE 290;MET 210;TRP 283;VAL 214,,ILE 290|PHE 4|Hydrophobic;MET 210|PHE 4|Hydrophobic;TRP 283|PHE 4|Hydrophobic;VAL 214|PHE 4|Hydrophobic
+G10H,0,0,2,2,2,2,0,2,,ASN 277;TRP 283,,ASN 277|HIS 4|Hydrogen Bond;TRP 283|HIS 4|Pi-Cation
+G10I,0,0,3,3,3,3,0,3,,MET 210;PHE 207;TRP 283,,MET 210|ILE 4|Hydrophobic;PHE 207|ILE 4|Hydrophobic;TRP 283|ILE 4|Hydrophobic
+G10K,0,0,0,0,0,0,0,0,,,,
+G10L,0,0,2,2,2,2,0,2,,MET 210;TRP 283,,MET 210|LEU 4|Hydrophobic;TRP 283|LEU 4|Hydrophobic
+G10M,0,0,1,1,1,1,0,1,,TRP 283,,TRP 283|MET 4|Hydrophobic
+G10N,0,0,1,1,1,1,0,1,,GLN 211,,GLN 211|ASN 4|Hydrogen Bond
+G10P,0,0,1,1,1,1,0,1,,TRP 283,,TRP 283|PRO 4|Hydrophobic
+G10Q,0,0,1,1,1,1,0,1,,GLN 211,,GLN 211|GLN 4|Hydrogen Bond
+G10R,0,0,2,2,2,2,0,2,,ASN 277;TRP 274,,ASN 277|ARG 4|Hydrogen Bond;TRP 274|ARG 4|Hydrogen Bond
+G10S,0,0,1,1,1,1,0,1,,GLN 211,,GLN 211|SER 4|Hydrogen Bond
+G10T,0,0,1,1,1,1,0,1,,GLN 211,,GLN 211|THR 4|Hydrogen Bond
+G10V,0,0,3,3,3,3,0,3,,MET 210;PHE 207;TRP 283,,MET 210|VAL 4|Hydrophobic;PHE 207|VAL 4|Hydrophobic;TRP 283|VAL 4|Hydrophobic
+G10W,0,0,4,6,4,6,0,4,,ASN 277;MET 280;PHE 207;TRP 283,,ASN 277|TRP 4|Hydrogen Bond;MET 280|TRP 4|Hydrophobic;PHE 207|TRP 4|Hydrophobic;TRP 283|TRP 4|Hydrophobic;TRP 283|TRP 4|Pi-Pi Stacking (antiparallel);TRP 283|TRP 4|Pi-Pi Stacking (parallel)
+G10Y,0,0,2,3,2,3,0,2,,TRP 261;TRP 283,,TRP 261|TYR 4|Hydrophobic;TRP 283|TYR 4|Hydrophobic;TRP 283|TYR 4|Pi-Pi Stacking (parallel)
+G22A,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|ALA 16|Hydrophobic
+G22C,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|CYS 16|Hydrogen Bond
+G22D,0,0,0,0,0,0,0,0,,,,
+G22E,0,0,0,0,0,0,0,0,,,,
+G22F,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|PHE 16|Hydrophobic
+G22H,0,0,0,0,0,0,0,0,,,,
+G22I,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|ILE 16|Hydrophobic
+G22K,0,0,0,0,0,0,0,0,,,,
+G22L,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|LEU 16|Hydrophobic
+G22M,0,0,2,2,2,2,0,2,,PRO 67;VAL 7,,PRO 67|MET 16|Hydrophobic;VAL 7|MET 16|Hydrophobic
+G22N,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|ASN 16|Hydrogen Bond
+G22P,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|PRO 16|Hydrophobic
+G22Q,0,0,0,0,0,0,0,0,,,,
+G22R,0,0,0,0,0,0,0,0,,,,
+G22S,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|SER 16|Hydrogen Bond
+G22T,0,0,0,0,0,0,0,0,,,,
+G22V,0,0,1,1,1,1,0,1,,VAL 7,,VAL 7|VAL 16|Hydrophobic
+G22W,0,0,4,4,4,4,0,4,,GLU 105;PRO 67;TRP 68;VAL 7,,GLU 105|TRP 16|Hydrogen Bond;PRO 67|TRP 16|Hydrophobic;TRP 68|TRP 16|Hydrophobic;VAL 7|TRP 16|Hydrophobic
+G22Y,0,0,3,3,3,3,0,3,,GLU 105;PRO 67;VAL 7,,GLU 105|TYR 16|Hydrogen Bond;PRO 67|TYR 16|Hydrophobic;VAL 7|TYR 16|Hydrophobic
+G35A,0,0,0,0,0,0,0,0,,,,
+G35C,0,0,0,0,0,0,0,0,,,,
+G35D,0,0,0,0,0,0,0,0,,,,
+G35E,0,0,0,0,0,0,0,0,,,,
+G35F,0,0,0,0,0,0,0,0,,,,
+G35H,0,0,0,0,0,0,0,0,,,,
+G35I,0,0,0,0,0,0,0,0,,,,
+G35K,0,0,1,2,1,2,0,1,,GLU 45,,GLU 45|LYS 29|Hydrogen Bond;GLU 45|LYS 29|Salt Bridge
+G35L,0,0,0,0,0,0,0,0,,,,
+G35M,0,0,0,0,0,0,0,0,,,,
+G35N,0,0,0,0,0,0,0,0,,,,
+G35P,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|PRO 29|Hydrophobic
+G35Q,0,0,0,0,0,0,0,0,,,,
+G35R,0,0,0,0,0,0,0,0,,,,
+G35S,0,0,0,0,0,0,0,0,,,,
+G35T,0,0,0,0,0,0,0,0,,,,
+G35V,0,0,0,0,0,0,0,0,,,,
+G35W,0,0,0,0,0,0,0,0,,,,
+G35Y,0,0,0,0,0,0,0,0,,,,
+G37A,0,0,0,0,0,0,0,0,,,,
+G37C,0,0,0,0,0,0,0,0,,,,
+G37D,0,0,0,0,0,0,0,0,,,,
+G37E,0,0,0,0,0,0,0,0,,,,
+G37F,0,0,1,1,1,1,0,1,,TRP 16,,TRP 16|PHE 31|Hydrophobic
+G37H,0,0,0,0,0,0,0,0,,,,
+G37I,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|ILE 31|Hydrophobic
+G37K,0,0,0,0,0,0,0,0,,,,
+G37L,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|LEU 31|Hydrophobic
+G37M,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|MET 31|Hydrophobic
+G37N,0,0,0,0,0,0,0,0,,,,
+G37P,0,0,0,0,0,0,0,0,,,,
+G37Q,0,0,0,0,0,0,0,0,,,,
+G37R,0,0,0,0,0,0,0,0,,,,
+G37S,0,0,0,0,0,0,0,0,,,,
+G37T,0,0,0,0,0,0,0,0,,,,
+G37V,0,0,0,0,0,0,0,0,,,,
+G37W,0,0,1,1,1,1,0,1,,TRP 16,,TRP 16|TRP 31|Hydrophobic
+G37Y,0,0,2,2,2,2,0,2,,LEU 95;PRO 96,,LEU 95|TYR 31|Hydrophobic;PRO 96|TYR 31|Hydrophobic
+H7A,1,1,3,3,2,2,1,3,GLN 211,ILE 290;TYR 218;VAL 214,GLN 211|HIS 1|Hydrogen Bond,ILE 290|ALA 1|Hydrophobic;TYR 218|ALA 1|Hydrophobic;VAL 214|ALA 1|Hydrophobic
+H7C,1,1,0,0,-1,-1,1,0,GLN 211,,GLN 211|HIS 1|Hydrogen Bond,
+H7D,1,1,1,1,0,0,1,1,GLN 211,GLU 364,GLN 211|HIS 1|Hydrogen Bond,GLU 364|ASP 1|Hydrogen Bond
+H7E,1,1,1,1,0,0,1,1,GLN 211,GLU 364,GLN 211|HIS 1|Hydrogen Bond,GLU 364|GLU 1|Hydrogen Bond
+H7F,1,1,3,3,2,2,1,3,GLN 211,ARG 167;ILE 290;TRP 283,GLN 211|HIS 1|Hydrogen Bond,ARG 167|PHE 1|Hydrogen Bond;ILE 290|PHE 1|Hydrophobic;TRP 283|PHE 1|Hydrophobic
+H7G,1,1,0,0,-1,-1,1,0,GLN 211,,GLN 211|HIS 1|Hydrogen Bond,
+H7I,1,1,3,3,2,2,1,3,GLN 211,ILE 290;LEU 291;TRP 283,GLN 211|HIS 1|Hydrogen Bond,ILE 290|ILE 1|Hydrophobic;LEU 291|ILE 1|Hydrophobic;TRP 283|ILE 1|Hydrophobic
+H7K,1,1,2,3,1,2,1,2,GLN 211,GLU 341;GLU 364,GLN 211|HIS 1|Hydrogen Bond,GLU 341|LYS 1|Salt Bridge;GLU 364|LYS 1|Hydrogen Bond;GLU 364|LYS 1|Salt Bridge
+H7L,1,1,6,6,5,5,1,6,GLN 211,ALA 345;GLU 364;ILE 290;ILE 294;LEU 291;TYR 218,GLN 211|HIS 1|Hydrogen Bond,ALA 345|LEU 1|Hydrophobic;GLU 364|LEU 1|Hydrogen Bond;ILE 290|LEU 1|Hydrophobic;ILE 294|LEU 1|Hydrophobic;LEU 291|LEU 1|Hydrophobic;TYR 218|LEU 1|Hydrogen Bond
+H7M,1,1,6,7,5,6,1,6,GLN 211,ALA 345;ILE 290;ILE 294;LEU 291;PHE 344;TYR 218,GLN 211|HIS 1|Hydrogen Bond,ALA 345|MET 1|Hydrophobic;ILE 290|MET 1|Hydrophobic;ILE 294|MET 1|Hydrophobic;LEU 291|MET 1|Hydrophobic;PHE 344|MET 1|Hydrophobic;TYR 218|MET 1|Hydrogen Bond;TYR 218|MET 1|Hydrophobic
+H7N,1,1,1,1,0,0,0,0,,,GLN 211|HIS 1|Hydrogen Bond,GLN 211|ASN 1|Hydrogen Bond
+H7P,1,1,4,4,3,3,1,4,GLN 211,ILE 290;TRP 283;TYR 218;VAL 214,GLN 211|HIS 1|Hydrogen Bond,ILE 290|PRO 1|Hydrophobic;TRP 283|PRO 1|Hydrophobic;TYR 218|PRO 1|Hydrophobic;VAL 214|PRO 1|Hydrophobic
+H7Q,1,1,1,1,0,0,1,1,GLN 211,ARG 287,GLN 211|HIS 1|Hydrogen Bond,ARG 287|GLN 1|Hydrogen Bond
+H7R,1,1,3,4,2,3,1,3,GLN 211,GLU 341;GLU 364;TYR 218,GLN 211|HIS 1|Hydrogen Bond,GLU 341|ARG 1|Hydrogen Bond;GLU 341|ARG 1|Salt Bridge;GLU 364|ARG 1|Salt Bridge;TYR 218|ARG 1|Hydrogen Bond
+H7S,1,1,0,0,-1,-1,1,0,GLN 211,,GLN 211|HIS 1|Hydrogen Bond,
+H7T,1,1,0,0,-1,-1,1,0,GLN 211,,GLN 211|HIS 1|Hydrogen Bond,
+H7V,1,1,2,2,1,1,1,2,GLN 211,ILE 290;TRP 283,GLN 211|HIS 1|Hydrogen Bond,ILE 290|VAL 1|Hydrophobic;TRP 283|VAL 1|Hydrophobic
+H7W,1,1,4,5,3,4,1,4,GLN 211,ASP 349;GLU 364;MET 280;TRP 283,GLN 211|HIS 1|Hydrogen Bond,ASP 349|TRP 1|Hydrogen Bond;GLU 364|TRP 1|Hydrogen Bond;MET 280|TRP 1|Hydrophobic;TRP 283|TRP 1|Hydrophobic;TRP 283|TRP 1|Pi-Pi Stacking (parallel)
+H7Y,1,1,5,5,4,4,0,4,,ILE 286;ILE 290;TRP 283;VAL 214,GLN 211|HIS 1|Hydrogen Bond,GLN 211|TYR 1|Hydrogen Bond;ILE 286|TYR 1|Hydrophobic;ILE 290|TYR 1|Hydrophobic;TRP 283|TYR 1|Hydrophobic;VAL 214|TYR 1|Hydrophobic
+I29A,5,5,3,3,-2,-2,2,0,TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|ALA 23|Hydrophobic;PRO 67|ALA 23|Hydrophobic;TRP 68|ALA 23|Hydrophobic
+I29C,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29D,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29E,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29F,5,5,4,4,-1,-1,1,0,TYR 46,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|PHE 23|Hydrophobic;PRO 67|PHE 23|Hydrophobic;TRP 68|PHE 23|Hydrophobic;TYR 65|PHE 23|Hydrophobic
+I29G,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29H,5,5,1,1,-4,-4,4,0,LEU 66;PRO 67;TRP 68;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,TYR 46|HIS 23|Hydrogen Bond
+I29K,5,5,1,2,-4,-3,5,1,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,GLU 104,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,GLU 104|LYS 23|Hydrogen Bond;GLU 104|LYS 23|Salt Bridge
+I29L,5,5,4,4,-1,-1,1,0,TYR 46,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|LEU 23|Hydrophobic;PRO 67|LEU 23|Hydrophobic;TRP 68|LEU 23|Hydrophobic;TYR 65|LEU 23|Hydrophobic
+I29M,5,5,3,3,-2,-2,2,0,LEU 66;TYR 46,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,PRO 67|MET 23|Hydrophobic;TRP 68|MET 23|Hydrophobic;TYR 65|MET 23|Hydrophobic
+I29N,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29P,5,5,3,3,-2,-2,2,0,TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|PRO 23|Hydrophobic;PRO 67|PRO 23|Hydrophobic;TRP 68|PRO 23|Hydrophobic
+I29Q,5,5,1,1,-4,-4,4,0,LEU 66;PRO 67;TRP 68;TYR 46,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,TYR 65|GLN 23|Hydrogen Bond
+I29R,5,5,2,2,-3,-3,4,1,LEU 66;PRO 67;TYR 46;TYR 65,THR 12,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,THR 12|ARG 23|Hydrogen Bond;TRP 68|ARG 23|Pi-Cation
+I29S,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29T,5,5,0,0,-5,-5,5,0,LEU 66;PRO 67;TRP 68;TYR 46;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,
+I29V,5,5,5,5,0,0,0,0,,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|VAL 23|Hydrophobic;PRO 67|VAL 23|Hydrophobic;TRP 68|VAL 23|Hydrophobic;TYR 46|VAL 23|Hydrophobic;TYR 65|VAL 23|Hydrophobic
+I29W,5,5,3,4,-2,-1,2,0,PRO 67;TYR 65,,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,LEU 66|TRP 23|Hydrophobic;TRP 68|TRP 23|Hydrophobic;TYR 46|TRP 23|Hydrogen Bond;TYR 46|TRP 23|Hydrophobic
+I29Y,5,5,4,5,-1,0,2,1,PRO 67;TYR 65,GLU 104,LEU 66|ILE 23|Hydrophobic;PRO 67|ILE 23|Hydrophobic;TRP 68|ILE 23|Hydrophobic;TYR 46|ILE 23|Hydrophobic;TYR 65|ILE 23|Hydrophobic,GLU 104|TYR 23|Hydrogen Bond;LEU 66|TYR 23|Hydrophobic;TRP 68|TYR 23|Hydrophobic;TYR 46|TYR 23|Hydrogen Bond;TYR 46|TYR 23|Hydrophobic
+K26A,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26C,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26D,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26E,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26F,1,2,3,3,2,1,1,3,GLU 105,PRO 67;TRP 68;VAL 7,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,PRO 67|PHE 20|Hydrophobic;TRP 68|PHE 20|Hydrophobic;VAL 7|PHE 20|Hydrophobic
+K26G,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26H,1,2,1,2,0,0,0,0,,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,GLU 105|HIS 20|Hydrogen Bond;GLU 105|HIS 20|Salt Bridge
+K26I,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|ILE 20|Hydrophobic
+K26L,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|LEU 20|Hydrophobic
+K26M,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|MET 20|Hydrophobic
+K26N,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26P,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|PRO 20|Hydrophobic
+K26Q,1,2,1,1,0,-1,0,0,,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,GLU 105|GLN 20|Hydrogen Bond
+K26R,1,2,1,2,0,0,0,0,,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,GLU 105|ARG 20|Hydrogen Bond;GLU 105|ARG 20|Salt Bridge
+K26S,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26T,1,2,0,0,-1,-2,1,0,GLU 105,,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,
+K26V,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|VAL 20|Hydrophobic
+K26W,1,2,1,1,0,-1,1,1,GLU 105,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,TRP 68|TRP 20|Hydrophobic
+K26Y,1,2,2,2,1,0,0,1,,TRP 68,GLU 105|LYS 20|Hydrogen Bond;GLU 105|LYS 20|Salt Bridge,GLU 105|TYR 20|Hydrogen Bond;TRP 68|TYR 20|Hydrophobic
+K34A,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|ALA 28|Hydrophobic
+K34C,0,0,0,0,0,0,0,0,,,,
+K34D,0,0,0,0,0,0,0,0,,,,
+K34E,0,0,0,0,0,0,0,0,,,,
+K34F,0,0,0,0,0,0,0,0,,,,
+K34G,0,0,0,0,0,0,0,0,,,,
+K34H,0,0,0,0,0,0,0,0,,,,
+K34I,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|ILE 28|Hydrophobic
+K34L,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|LEU 28|Hydrophobic
+K34M,0,0,0,0,0,0,0,0,,,,
+K34N,0,0,0,0,0,0,0,0,,,,
+K34P,0,0,1,1,1,1,0,1,,LEU 95,,LEU 95|PRO 28|Hydrophobic
+K34Q,0,0,0,0,0,0,0,0,,,,
+K34R,0,0,0,0,0,0,0,0,,,,
+K34S,0,0,0,0,0,0,0,0,,,,
+K34T,0,0,0,0,0,0,0,0,,,,
+K34V,0,0,0,0,0,0,0,0,,,,
+K34W,0,0,0,0,0,0,0,0,,,,
+K34Y,0,0,0,0,0,0,0,0,,,,
+L20A,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|ALA 14|Hydrophobic
+L20C,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20D,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20E,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20F,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|PHE 14|Hydrophobic
+L20G,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20H,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20I,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|ILE 14|Hydrophobic
+L20K,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20M,1,1,2,2,1,1,0,1,,LEU 178,TYR 182|LEU 14|Hydrophobic,LEU 178|MET 14|Hydrophobic;TYR 182|MET 14|Hydrophobic
+L20N,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20P,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|PRO 14|Hydrophobic
+L20Q,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20R,1,1,1,2,0,1,1,1,TYR 182,GLU 115,TYR 182|LEU 14|Hydrophobic,GLU 115|ARG 14|Hydrogen Bond;GLU 115|ARG 14|Salt Bridge
+L20S,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20T,1,1,0,0,-1,-1,1,0,TYR 182,,TYR 182|LEU 14|Hydrophobic,
+L20V,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|VAL 14|Hydrophobic
+L20W,1,1,2,2,1,1,0,1,,LEU 178,TYR 182|LEU 14|Hydrophobic,LEU 178|TRP 14|Hydrophobic;TYR 182|TRP 14|Hydrophobic
+L20Y,1,1,1,1,0,0,0,0,,,TYR 182|LEU 14|Hydrophobic,TYR 182|TYR 14|Hydrophobic
+L32A,3,3,1,1,-2,-2,2,0,TRP 16;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TYR 46|ALA 26|Hydrophobic
+L32C,3,3,2,2,-1,-1,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|CYS 26|Hydrogen Bond;TRP 16|CYS 26|Hydrogen Bond
+L32D,3,3,1,1,-2,-2,2,0,TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|ASP 26|Hydrogen Bond
+L32E,3,3,0,0,-3,-3,3,0,TRP 16;TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,
+L32F,3,3,2,3,-1,0,2,1,TYR 46;TYR 65,ARG 98,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,ARG 98|PHE 26|Hydrogen Bond;TRP 16|PHE 26|Hydrophobic;TRP 16|PHE 26|Pi-Pi Stacking (parallel)
+L32G,3,3,0,0,-3,-3,3,0,TRP 16;TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,
+L32H,3,3,2,3,-1,0,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|HIS 26|Hydrogen Bond;GLU 45|HIS 26|Salt Bridge;TRP 16|HIS 26|Pi-Cation
+L32I,3,3,2,2,-1,-1,1,0,TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|ILE 26|Hydrophobic;TYR 46|ILE 26|Hydrophobic
+L32K,3,3,2,3,-1,0,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|LYS 26|Hydrogen Bond;GLU 45|LYS 26|Salt Bridge;TRP 16|LYS 26|Pi-Cation
+L32M,3,3,2,3,-1,0,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|MET 26|Hydrogen Bond;TRP 16|MET 26|Hydrogen Bond;TRP 16|MET 26|Hydrophobic
+L32N,3,3,1,1,-2,-2,2,0,TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|ASN 26|Hydrogen Bond
+L32P,3,3,2,2,-1,-1,2,1,TRP 16;TYR 65,ARG 98,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,ARG 98|PRO 26|Hydrogen Bond;TYR 46|PRO 26|Hydrophobic
+L32Q,3,3,2,2,-1,-1,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|GLN 26|Hydrogen Bond;TRP 16|GLN 26|Hydrogen Bond
+L32R,3,3,2,3,-1,0,2,1,TYR 46;TYR 65,GLU 45,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,GLU 45|ARG 26|Hydrogen Bond;GLU 45|ARG 26|Salt Bridge;TRP 16|ARG 26|Pi-Cation
+L32S,3,3,0,0,-3,-3,3,0,TRP 16;TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,
+L32T,3,3,0,0,-3,-3,3,0,TRP 16;TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,
+L32V,3,3,3,3,0,0,0,0,,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|VAL 26|Hydrophobic;TYR 46|VAL 26|Hydrophobic;TYR 65|VAL 26|Hydrophobic
+L32W,3,3,1,2,-2,-1,2,0,TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|TRP 26|Hydrophobic;TRP 16|TRP 26|Pi-Pi Stacking (antiparallel)
+L32Y,3,3,1,2,-2,-1,2,0,TYR 46;TYR 65,,TRP 16|LEU 26|Hydrophobic;TYR 46|LEU 26|Hydrophobic;TYR 65|LEU 26|Hydrophobic,TRP 16|TYR 26|Hydrophobic;TRP 16|TYR 26|Pi-Pi Stacking (parallel)
+Q23A,0,0,0,0,0,0,0,0,,,,
+Q23C,0,0,0,0,0,0,0,0,,,,
+Q23D,0,0,0,0,0,0,0,0,,,,
+Q23E,0,0,0,0,0,0,0,0,,,,
+Q23F,0,0,1,1,1,1,0,1,,ALA 186,,ALA 186|PHE 17|Hydrophobic
+Q23G,0,0,0,0,0,0,0,0,,,,
+Q23H,0,0,0,0,0,0,0,0,,,,
+Q23I,0,0,0,0,0,0,0,0,,,,
+Q23K,0,0,0,0,0,0,0,0,,,,
+Q23L,0,0,0,0,0,0,0,0,,,,
+Q23M,0,0,0,0,0,0,0,0,,,,
+Q23N,0,0,0,0,0,0,0,0,,,,
+Q23P,0,0,0,0,0,0,0,0,,,,
+Q23R,0,0,0,0,0,0,0,0,,,,
+Q23S,0,0,0,0,0,0,0,0,,,,
+Q23T,0,0,0,0,0,0,0,0,,,,
+Q23V,0,0,0,0,0,0,0,0,,,,
+Q23W,0,0,2,2,2,2,0,2,,ALA 186;TYR 182,,ALA 186|TRP 17|Hydrophobic;TYR 182|TRP 17|Hydrophobic
+Q23Y,0,0,1,1,1,1,0,1,,ALA 186,,ALA 186|TYR 17|Hydrophobic
+R36A,0,0,0,0,0,0,0,0,,,,
+R36C,0,0,0,0,0,0,0,0,,,,
+R36D,0,0,0,0,0,0,0,0,,,,
+R36E,0,0,1,2,1,2,0,1,,HIS 189,,HIS 189|GLU 30|Hydrogen Bond;HIS 189|GLU 30|Ionic Interaction
+R36F,0,0,0,0,0,0,0,0,,,,
+R36G,0,0,0,0,0,0,0,0,,,,
+R36H,0,0,0,0,0,0,0,0,,,,
+R36I,0,0,0,0,0,0,0,0,,,,
+R36K,0,0,0,0,0,0,0,0,,,,
+R36L,0,0,0,0,0,0,0,0,,,,
+R36M,0,0,0,0,0,0,0,0,,,,
+R36N,0,0,0,0,0,0,0,0,,,,
+R36P,0,0,0,0,0,0,0,0,,,,
+R36Q,0,0,0,0,0,0,0,0,,,,
+R36S,0,0,0,0,0,0,0,0,,,,
+R36T,0,0,0,0,0,0,0,0,,,,
+R36V,0,0,0,0,0,0,0,0,,,,
+R36W,0,0,0,0,0,0,0,0,,,,
+R36Y,0,0,0,0,0,0,0,0,,,,
+S14A,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14C,1,1,2,2,1,1,0,1,,THR 275,ASN 277|SER 8|Hydrogen Bond,ASN 277|CYS 8|Hydrogen Bond;THR 275|CYS 8|Hydrogen Bond
+S14D,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|ASP 8|Hydrogen Bond
+S14E,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|GLU 8|Hydrogen Bond
+S14F,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14G,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14H,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|HIS 8|Hydrogen Bond
+S14I,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14K,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|LYS 8|Hydrogen Bond
+S14L,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14M,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14N,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|ASN 8|Hydrogen Bond
+S14P,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14Q,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|GLN 8|Hydrogen Bond
+S14R,1,1,1,1,0,0,0,0,,,ASN 277|SER 8|Hydrogen Bond,ASN 277|ARG 8|Hydrogen Bond
+S14T,1,1,2,2,1,1,0,1,,THR 275,ASN 277|SER 8|Hydrogen Bond,ASN 277|THR 8|Hydrogen Bond;THR 275|THR 8|Hydrogen Bond
+S14V,1,1,0,0,-1,-1,1,0,ASN 277,,ASN 277|SER 8|Hydrogen Bond,
+S14W,1,1,1,1,0,0,1,1,ASN 277,MET 280,ASN 277|SER 8|Hydrogen Bond,MET 280|TRP 8|Hydrophobic
+S14Y,1,1,1,1,0,0,1,1,ASN 277,THR 6,ASN 277|SER 8|Hydrogen Bond,THR 6|TYR 8|Hydrogen Bond
+S17A,1,1,2,2,1,1,1,2,THR 275,LEU 178;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|ALA 11|Hydrophobic;TYR 182|ALA 11|Hydrophobic
+S17C,1,1,1,1,0,0,0,0,,,THR 275|SER 11|Hydrogen Bond,THR 275|CYS 11|Hydrogen Bond
+S17D,1,1,3,4,2,3,0,2,,ARG 276;TYR 182,THR 275|SER 11|Hydrogen Bond,ARG 276|ASP 11|Hydrogen Bond;ARG 276|ASP 11|Ionic Interaction;THR 275|ASP 11|Hydrogen Bond;TYR 182|ASP 11|Hydrogen Bond
+S17E,1,1,1,1,0,0,0,0,,,THR 275|SER 11|Hydrogen Bond,THR 275|GLU 11|Hydrogen Bond
+S17F,1,1,3,3,2,2,1,3,THR 275,LEU 178;MET 181;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|PHE 11|Hydrophobic;MET 181|PHE 11|Hydrophobic;TYR 182|PHE 11|Hydrophobic
+S17G,1,1,0,0,-1,-1,1,0,THR 275,,THR 275|SER 11|Hydrogen Bond,
+S17H,1,1,2,2,1,1,0,1,,TYR 182,THR 275|SER 11|Hydrogen Bond,THR 275|HIS 11|Hydrogen Bond;TYR 182|HIS 11|Hydrogen Bond
+S17I,1,1,2,2,1,1,1,2,THR 275,LEU 178;PHE 207,THR 275|SER 11|Hydrogen Bond,LEU 178|ILE 11|Hydrophobic;PHE 207|ILE 11|Hydrophobic
+S17K,1,1,1,1,0,0,1,1,THR 275,GLN 198,THR 275|SER 11|Hydrogen Bond,GLN 198|LYS 11|Hydrogen Bond
+S17L,1,1,2,2,1,1,1,2,THR 275,LEU 178;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|LEU 11|Hydrophobic;TYR 182|LEU 11|Hydrophobic
+S17M,1,1,2,2,1,1,1,2,THR 275,LEU 178;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|MET 11|Hydrophobic;TYR 182|MET 11|Hydrophobic
+S17N,1,1,2,2,1,1,0,1,,TYR 182,THR 275|SER 11|Hydrogen Bond,THR 275|ASN 11|Hydrogen Bond;TYR 182|ASN 11|Hydrogen Bond
+S17P,1,1,1,1,0,0,1,1,THR 275,LEU 178,THR 275|SER 11|Hydrogen Bond,LEU 178|PRO 11|Hydrophobic
+S17Q,1,1,2,2,1,1,0,1,,ARG 276,THR 275|SER 11|Hydrogen Bond,ARG 276|GLN 11|Hydrogen Bond;THR 275|GLN 11|Hydrogen Bond
+S17R,1,1,2,2,1,1,0,1,,TYR 182,THR 275|SER 11|Hydrogen Bond,THR 275|ARG 11|Hydrogen Bond;TYR 182|ARG 11|Hydrogen Bond
+S17T,1,1,1,1,0,0,0,0,,,THR 275|SER 11|Hydrogen Bond,THR 275|THR 11|Hydrogen Bond
+S17V,1,1,2,2,1,1,1,2,THR 275,LEU 178;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|VAL 11|Hydrophobic;TYR 182|VAL 11|Hydrophobic
+S17W,1,1,3,3,2,2,1,3,THR 275,LEU 178;MET 181;TYR 182,THR 275|SER 11|Hydrogen Bond,LEU 178|TRP 11|Hydrophobic;MET 181|TRP 11|Hydrophobic;TYR 182|TRP 11|Hydrophobic
+S17Y,1,1,4,4,3,3,1,4,THR 275,GLN 198;LEU 178;MET 181;TYR 182,THR 275|SER 11|Hydrogen Bond,GLN 198|TYR 11|Hydrogen Bond;LEU 178|TYR 11|Hydrophobic;MET 181|TYR 11|Hydrophobic;TYR 182|TYR 11|Hydrophobic
+S18A,0,0,0,0,0,0,0,0,,,,
+S18C,0,0,0,0,0,0,0,0,,,,
+S18D,0,0,1,1,1,1,0,1,,ARG 276,,ARG 276|ASP 12|Ionic Interaction
+S18E,0,0,0,0,0,0,0,0,,,,
+S18F,0,0,0,0,0,0,0,0,,,,
+S18G,0,0,0,0,0,0,0,0,,,,
+S18H,0,0,0,0,0,0,0,0,,,,
+S18I,0,0,0,0,0,0,0,0,,,,
+S18K,0,0,0,0,0,0,0,0,,,,
+S18L,0,0,0,0,0,0,0,0,,,,
+S18M,0,0,0,0,0,0,0,0,,,,
+S18N,0,0,1,1,1,1,0,1,,ARG 276,,ARG 276|ASN 12|Hydrogen Bond
+S18P,0,0,0,0,0,0,0,0,,,,
+S18Q,0,0,0,0,0,0,0,0,,,,
+S18R,0,0,1,1,1,1,0,1,,THR 6,,THR 6|ARG 12|Hydrogen Bond
+S18T,0,0,0,0,0,0,0,0,,,,
+S18V,0,0,0,0,0,0,0,0,,,,
+S18W,0,0,0,0,0,0,0,0,,,,
+S18Y,0,0,0,0,0,0,0,0,,,,
+T11A,1,1,1,1,0,0,1,1,ASP 349,LEU 361,ASP 349|THR 5|Hydrogen Bond,LEU 361|ALA 5|Hydrophobic
+T11C,1,1,1,1,0,0,0,0,,,ASP 349|THR 5|Hydrogen Bond,ASP 349|CYS 5|Hydrogen Bond
+T11D,1,1,1,1,0,0,1,1,ASP 349,TRP 283,ASP 349|THR 5|Hydrogen Bond,TRP 283|ASP 5|Hydrogen Bond
+T11E,1,1,1,1,0,0,1,1,ASP 349,ARG 357,ASP 349|THR 5|Hydrogen Bond,ARG 357|GLU 5|Ionic Interaction
+T11F,1,1,1,1,0,0,1,1,ASP 349,LEU 361,ASP 349|THR 5|Hydrogen Bond,LEU 361|PHE 5|Hydrophobic
+T11G,1,1,0,0,-1,-1,1,0,ASP 349,,ASP 349|THR 5|Hydrogen Bond,
+T11H,1,1,2,3,1,2,0,1,,TRP 283,ASP 349|THR 5|Hydrogen Bond,ASP 349|HIS 5|Salt Bridge;TRP 283|HIS 5|Hydrogen Bond;TRP 283|HIS 5|Pi-Cation
+T11I,1,1,1,1,0,0,1,1,ASP 349,LEU 361,ASP 349|THR 5|Hydrogen Bond,LEU 361|ILE 5|Hydrophobic
+T11K,1,1,1,2,0,1,0,0,,,ASP 349|THR 5|Hydrogen Bond,ASP 349|LYS 5|Hydrogen Bond;ASP 349|LYS 5|Salt Bridge
+T11L,1,1,1,1,0,0,1,1,ASP 349,LEU 361,ASP 349|THR 5|Hydrogen Bond,LEU 361|LEU 5|Hydrophobic
+T11M,1,1,2,2,1,1,0,1,,LEU 361,ASP 349|THR 5|Hydrogen Bond,ASP 349|MET 5|Hydrogen Bond;LEU 361|MET 5|Hydrophobic
+T11N,1,1,2,2,1,1,0,1,,TRP 283,ASP 349|THR 5|Hydrogen Bond,ASP 349|ASN 5|Hydrogen Bond;TRP 283|ASN 5|Hydrogen Bond
+T11P,1,1,2,2,1,1,1,2,ASP 349,LEU 361;TRP 283,ASP 349|THR 5|Hydrogen Bond,LEU 361|PRO 5|Hydrophobic;TRP 283|PRO 5|Hydrophobic
+T11Q,1,1,3,3,2,2,0,2,,ARG 357;TRP 283,ASP 349|THR 5|Hydrogen Bond,ARG 357|GLN 5|Hydrogen Bond;ASP 349|GLN 5|Hydrogen Bond;TRP 283|GLN 5|Hydrogen Bond
+T11R,1,1,2,4,1,3,0,1,,GLU 364,ASP 349|THR 5|Hydrogen Bond,ASP 349|ARG 5|Hydrogen Bond;ASP 349|ARG 5|Salt Bridge;GLU 364|ARG 5|Hydrogen Bond;GLU 364|ARG 5|Salt Bridge
+T11S,1,1,1,1,0,0,0,0,,,ASP 349|THR 5|Hydrogen Bond,ASP 349|SER 5|Hydrogen Bond
+T11V,1,1,1,1,0,0,1,1,ASP 349,LEU 361,ASP 349|THR 5|Hydrogen Bond,LEU 361|VAL 5|Hydrophobic
+T11W,1,1,2,2,1,1,1,2,ASP 349,ALA 352;LEU 361,ASP 349|THR 5|Hydrogen Bond,ALA 352|TRP 5|Hydrophobic;LEU 361|TRP 5|Hydrophobic
+T11Y,1,1,3,4,2,3,0,2,,LEU 361;TRP 283,ASP 349|THR 5|Hydrogen Bond,ASP 349|TYR 5|Hydrogen Bond;LEU 361|TYR 5|Hydrophobic;TRP 283|TYR 5|Hydrogen Bond;TRP 283|TYR 5|Hydrophobic
+T13A,1,1,1,1,0,0,1,1,LYS 174,PHE 207,LYS 174|THR 7|Hydrogen Bond,PHE 207|ALA 7|Hydrophobic
+T13C,1,1,0,0,-1,-1,1,0,LYS 174,,LYS 174|THR 7|Hydrogen Bond,
+T13D,1,1,1,2,0,1,0,0,,,LYS 174|THR 7|Hydrogen Bond,LYS 174|ASP 7|Hydrogen Bond;LYS 174|ASP 7|Ionic Interaction
+T13E,1,1,1,2,0,1,0,0,,,LYS 174|THR 7|Hydrogen Bond,LYS 174|GLU 7|Hydrogen Bond;LYS 174|GLU 7|Ionic Interaction
+T13F,1,1,3,3,2,2,1,3,LYS 174,MET 210;TYR 125;VAL 171,LYS 174|THR 7|Hydrogen Bond,MET 210|PHE 7|Hydrophobic;TYR 125|PHE 7|Hydrophobic;VAL 171|PHE 7|Hydrophobic
+T13G,1,1,0,0,-1,-1,1,0,LYS 174,,LYS 174|THR 7|Hydrogen Bond,
+T13H,1,1,2,2,1,1,0,1,,ASP 175,LYS 174|THR 7|Hydrogen Bond,ASP 175|HIS 7|Salt Bridge;LYS 174|HIS 7|Hydrogen Bond
+T13I,1,1,2,2,1,1,1,2,LYS 174,MET 210;PHE 207,LYS 174|THR 7|Hydrogen Bond,MET 210|ILE 7|Hydrophobic;PHE 207|ILE 7|Hydrophobic
+T13K,1,1,1,2,0,1,1,1,LYS 174,ASP 175,LYS 174|THR 7|Hydrogen Bond,ASP 175|LYS 7|Hydrogen Bond;ASP 175|LYS 7|Salt Bridge
+T13L,1,1,3,3,2,2,1,3,LYS 174,LEU 178;MET 210;PHE 207,LYS 174|THR 7|Hydrogen Bond,LEU 178|LEU 7|Hydrophobic;MET 210|LEU 7|Hydrophobic;PHE 207|LEU 7|Hydrophobic
+T13M,1,1,3,3,2,2,1,3,LYS 174,MET 210;PHE 207;VAL 171,LYS 174|THR 7|Hydrogen Bond,MET 210|MET 7|Hydrophobic;PHE 207|MET 7|Hydrophobic;VAL 171|MET 7|Hydrophobic
+T13N,1,1,1,1,0,0,0,0,,,LYS 174|THR 7|Hydrogen Bond,LYS 174|ASN 7|Hydrogen Bond
+T13P,1,1,0,0,-1,-1,1,0,LYS 174,,LYS 174|THR 7|Hydrogen Bond,
+T13Q,1,1,1,1,0,0,0,0,,,LYS 174|THR 7|Hydrogen Bond,LYS 174|GLN 7|Hydrogen Bond
+T13R,1,1,1,1,0,0,1,1,LYS 174,THR 275,LYS 174|THR 7|Hydrogen Bond,THR 275|ARG 7|Hydrogen Bond
+T13S,1,1,1,1,0,0,0,0,,,LYS 174|THR 7|Hydrogen Bond,LYS 174|SER 7|Hydrogen Bond
+T13V,1,1,2,2,1,1,1,2,LYS 174,LEU 178;PHE 207,LYS 174|THR 7|Hydrogen Bond,LEU 178|VAL 7|Hydrophobic;PHE 207|VAL 7|Hydrophobic
+T13W,1,1,5,6,4,5,1,5,LYS 174,LEU 178;MET 210;TYR 122;TYR 125;VAL 171,LYS 174|THR 7|Hydrogen Bond,LEU 178|TRP 7|Hydrophobic;MET 210|TRP 7|Hydrophobic;TYR 122|TRP 7|Hydrophobic;TYR 125|TRP 7|Hydrogen Bond;TYR 125|TRP 7|Hydrophobic;VAL 171|TRP 7|Hydrophobic
+T13Y,1,1,3,3,2,2,1,3,LYS 174,MET 210;TYR 125;VAL 171,LYS 174|THR 7|Hydrogen Bond,MET 210|TYR 7|Hydrophobic;TYR 125|TYR 7|Hydrophobic;VAL 171|TYR 7|Hydrophobic
+V16A,1,1,1,1,0,0,0,0,,,LEU 118|VAL 10|Hydrophobic,LEU 118|ALA 10|Hydrophobic
+V16C,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16D,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16E,1,1,1,1,0,0,1,1,LEU 118,LYS 174,LEU 118|VAL 10|Hydrophobic,LYS 174|GLU 10|Ionic Interaction
+V16F,1,1,2,2,1,1,0,1,,TYR 122,LEU 118|VAL 10|Hydrophobic,LEU 118|PHE 10|Hydrophobic;TYR 122|PHE 10|Hydrophobic
+V16G,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16H,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16I,1,1,2,2,1,1,0,1,,LEU 178,LEU 118|VAL 10|Hydrophobic,LEU 118|ILE 10|Hydrophobic;LEU 178|ILE 10|Hydrophobic
+V16K,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16L,1,1,2,2,1,1,0,1,,LEU 178,LEU 118|VAL 10|Hydrophobic,LEU 118|LEU 10|Hydrophobic;LEU 178|LEU 10|Hydrophobic
+V16M,1,1,2,2,1,1,0,1,,LEU 178,LEU 118|VAL 10|Hydrophobic,LEU 118|MET 10|Hydrophobic;LEU 178|MET 10|Hydrophobic
+V16N,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16P,1,1,1,1,0,0,0,0,,,LEU 118|VAL 10|Hydrophobic,LEU 118|PRO 10|Hydrophobic
+V16Q,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16R,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16S,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16T,1,1,0,0,-1,-1,1,0,LEU 118,,LEU 118|VAL 10|Hydrophobic,
+V16W,1,1,3,3,2,2,0,2,,LEU 178;TYR 122,LEU 118|VAL 10|Hydrophobic,LEU 118|TRP 10|Hydrophobic;LEU 178|TRP 10|Hydrophobic;TYR 122|TRP 10|Hydrophobic
+V16Y,1,1,3,3,2,2,0,2,,LEU 178;TYR 122,LEU 118|VAL 10|Hydrophobic,LEU 118|TYR 10|Hydrophobic;LEU 178|TYR 10|Hydrophobic;TYR 122|TYR 10|Hydrophobic
+V33A,3,3,3,3,0,0,0,0,,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|ALA 27|Hydrogen Bond;LEU 100|ALA 27|Hydrophobic;TYR 46|ALA 27|Hydrophobic
+V33C,3,3,1,1,-2,-2,2,0,LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|CYS 27|Hydrogen Bond
+V33D,3,3,1,2,-2,-1,2,0,LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|ASP 27|Hydrogen Bond;ARG 98|ASP 27|Ionic Interaction
+V33E,3,3,2,2,-1,-1,1,0,LEU 100,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|GLU 27|Hydrogen Bond;TYR 46|GLU 27|Hydrogen Bond
+V33F,3,3,3,3,0,0,0,0,,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|PHE 27|Hydrogen Bond;LEU 100|PHE 27|Hydrophobic;TYR 46|PHE 27|Hydrophobic
+V33G,3,3,1,1,-2,-2,2,0,LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|GLY 27|Hydrogen Bond
+V33H,3,3,2,3,-1,0,1,0,LEU 100,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|HIS 27|Hydrogen Bond;TYR 46|HIS 27|Hydrogen Bond;TYR 46|HIS 27|Pi-Cation
+V33I,3,3,3,3,0,0,0,0,,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|ILE 27|Hydrogen Bond;LEU 100|ILE 27|Hydrophobic;TYR 46|ILE 27|Hydrophobic
+V33K,3,3,2,3,-1,0,2,1,LEU 100;TYR 46,GLU 104,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|LYS 27|Hydrogen Bond;GLU 104|LYS 27|Hydrogen Bond;GLU 104|LYS 27|Salt Bridge
+V33L,3,3,3,3,0,0,0,0,,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|LEU 27|Hydrogen Bond;LEU 100|LEU 27|Hydrophobic;TYR 46|LEU 27|Hydrophobic
+V33M,3,3,4,4,1,1,0,1,,TRP 68,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|MET 27|Hydrogen Bond;LEU 100|MET 27|Hydrophobic;TRP 68|MET 27|Hydrophobic;TYR 46|MET 27|Hydrophobic
+V33N,3,3,1,1,-2,-2,2,0,LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|ASN 27|Hydrogen Bond
+V33P,3,3,3,3,0,0,0,0,,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|PRO 27|Hydrogen Bond;LEU 100|PRO 27|Hydrophobic;TYR 46|PRO 27|Hydrophobic
+V33Q,3,3,2,2,-1,-1,1,0,LEU 100,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|GLN 27|Hydrogen Bond;TYR 46|GLN 27|Hydrogen Bond
+V33R,3,3,2,3,-1,0,2,1,LEU 100;TYR 46,GLU 104,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|ARG 27|Hydrogen Bond;GLU 104|ARG 27|Hydrogen Bond;GLU 104|ARG 27|Salt Bridge
+V33S,3,3,1,1,-2,-2,2,0,LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|SER 27|Hydrogen Bond
+V33T,3,3,0,0,-3,-3,3,0,ARG 98;LEU 100;TYR 46,,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,
+V33W,3,3,5,6,2,3,0,2,,LEU 66;TRP 68,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|TRP 27|Hydrogen Bond;LEU 100|TRP 27|Hydrophobic;LEU 66|TRP 27|Hydrophobic;TRP 68|TRP 27|Hydrophobic;TYR 46|TRP 27|Hydrophobic;TYR 46|TRP 27|Pi-Pi Stacking (T-shaped)
+V33Y,3,3,4,4,1,1,0,1,,LEU 66,ARG 98|VAL 27|Hydrogen Bond;LEU 100|VAL 27|Hydrophobic;TYR 46|VAL 27|Hydrophobic,ARG 98|TYR 27|Hydrogen Bond;LEU 100|TYR 27|Hydrophobic;LEU 66|TYR 27|Hydrophobic;TYR 46|TYR 27|Hydrophobic
+W31A,1,1,0,0,-1,-1,1,0,TRP 191,,TRP 191|TRP 25|Hydrophobic,
+W31C,1,1,1,1,0,0,1,1,TRP 191,HIS 189,TRP 191|TRP 25|Hydrophobic,HIS 189|CYS 25|Hydrogen Bond
+W31D,1,1,2,3,1,2,0,1,,HIS 189,TRP 191|TRP 25|Hydrophobic,HIS 189|ASP 25|Hydrogen Bond;HIS 189|ASP 25|Ionic Interaction;TRP 191|ASP 25|Hydrogen Bond
+W31E,1,1,2,3,1,2,0,1,,HIS 189,TRP 191|TRP 25|Hydrophobic,HIS 189|GLU 25|Hydrogen Bond;HIS 189|GLU 25|Ionic Interaction;TRP 191|GLU 25|Hydrogen Bond
+W31F,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|PHE 25|Hydrophobic
+W31G,1,1,0,0,-1,-1,1,0,TRP 191,,TRP 191|TRP 25|Hydrophobic,
+W31H,1,1,1,2,0,1,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|HIS 25|Hydrogen Bond;TRP 191|HIS 25|Pi-Cation
+W31I,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|ILE 25|Hydrophobic
+W31K,1,1,0,0,-1,-1,1,0,TRP 191,,TRP 191|TRP 25|Hydrophobic,
+W31L,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|LEU 25|Hydrophobic
+W31M,1,1,1,2,0,1,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|MET 25|Hydrogen Bond;TRP 191|MET 25|Hydrophobic
+W31N,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|ASN 25|Hydrogen Bond
+W31P,1,1,0,0,-1,-1,1,0,TRP 191,,TRP 191|TRP 25|Hydrophobic,
+W31Q,1,1,2,2,1,1,0,1,,HIS 189,TRP 191|TRP 25|Hydrophobic,HIS 189|GLN 25|Hydrogen Bond;TRP 191|GLN 25|Hydrogen Bond
+W31R,1,1,2,2,1,1,0,1,,ALA 186,TRP 191|TRP 25|Hydrophobic,ALA 186|ARG 25|Hydrogen Bond;TRP 191|ARG 25|Pi-Cation
+W31S,1,1,2,2,1,1,0,1,,HIS 189,TRP 191|TRP 25|Hydrophobic,HIS 189|SER 25|Hydrogen Bond;TRP 191|SER 25|Hydrogen Bond
+W31T,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|THR 25|Hydrogen Bond
+W31V,1,1,0,0,-1,-1,1,0,TRP 191,,TRP 191|TRP 25|Hydrophobic,
+W31Y,1,1,1,1,0,0,0,0,,,TRP 191|TRP 25|Hydrophobic,TRP 191|TYR 25|Hydrophobic
+Y19A,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19C,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19D,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19E,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19F,4,4,2,2,-2,-2,2,0,GLU 115;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|PHE 13|Hydrophobic;PRO 114|PHE 13|Hydrophobic
+Y19G,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19H,4,4,1,2,-3,-2,3,0,LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,GLU 115|HIS 13|Hydrogen Bond;GLU 115|HIS 13|Salt Bridge
+Y19I,4,4,2,2,-2,-2,2,0,GLU 115;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|ILE 13|Hydrophobic;PRO 114|ILE 13|Hydrophobic
+Y19K,4,4,1,2,-3,-2,3,0,LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,GLU 115|LYS 13|Hydrogen Bond;GLU 115|LYS 13|Salt Bridge
+Y19L,4,4,1,1,-3,-3,3,0,GLU 115;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|LEU 13|Hydrophobic
+Y19M,4,4,1,1,-3,-3,3,0,GLU 115;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|MET 13|Hydrophobic
+Y19N,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19P,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19Q,4,4,1,1,-3,-3,3,0,LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,GLU 115|GLN 13|Hydrogen Bond
+Y19R,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19S,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19T,4,4,0,0,-4,-4,4,0,GLU 115;LEU 118;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,
+Y19V,4,4,1,1,-3,-3,3,0,GLU 115;PRO 114;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|VAL 13|Hydrophobic
+Y19W,4,4,2,2,-2,-2,2,0,GLU 115;SER 113,,GLU 115|TYR 13|Hydrogen Bond;LEU 118|TYR 13|Hydrophobic;PRO 114|TYR 13|Hydrophobic;SER 113|TYR 13|Hydrogen Bond,LEU 118|TRP 13|Hydrophobic;PRO 114|TRP 13|Hydrophobic

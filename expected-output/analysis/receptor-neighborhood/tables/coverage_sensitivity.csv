@@ -1,0 +1,6 @@
+cutoff_A,n_peptide_variants_in_structure,n_variants_with_assayed_receptor_neighbor,fraction_variants_covered,n_unique_peptide_positions_in_structure,n_unique_positions_covered
+4.0,22,8,0.36363636363636365,17,6
+4.5,22,9,0.4090909090909091,17,7
+5.0,22,12,0.5454545454545454,17,9
+6.0,22,16,0.7272727272727273,17,12
+8.0,22,20,0.9090909090909091,17,16

@@ -1,0 +1,69 @@
+{
+  "n_peptide_rows_including_WT": 25,
+  "n_peptide_variants": 24,
+  "n_peptide_variants_in_6VCB_active_segment": 22,
+  "peptide_variants_outside_6VCB": [
+    "E3A",
+    "F4L"
+  ],
+  "n_receptor_variants": 196,
+  "n_unique_receptor_residues": 149,
+  "n_receptor_variants_resolved_in_6VCB": 162,
+  "n_unique_assayed_receptor_residues_direct": 12,
+  "n_peptide_variants_with_assayed_receptor_neighbor_at_6A": 16,
+  "fraction_peptide_variants_covered_at_6A": 0.7272727272727273,
+  "signed_position_level_spearman_rho": 0.3210001355558158,
+  "signed_position_level_permutation_p": 0.3062369376306237,
+  "absolute_position_level_spearman_rho": -0.045857162222259405,
+  "absolute_position_level_permutation_p": 0.8901710982890171,
+  "signed_position_level_in_sample_R_squared": 0.027487719443428538,
+  "signed_position_level_leave_one_out_Q_squared": -0.4702956442135058,
+  "absolute_position_level_in_sample_R_squared": 0.01765651613505348,
+  "absolute_position_level_leave_one_out_Q_squared": -0.3254455234494269,
+  "direct_vs_other_residue_median_MiniGs_loss_mean_difference": 0.31897344791129845,
+  "direct_vs_other_residue_median_MiniGs_loss_permutation_p": 0.005949940500594994,
+  "coverage_sensitivity": [
+    {
+      "cutoff_A": 4.0,
+      "n_peptide_variants_in_structure": 22,
+      "n_variants_with_assayed_receptor_neighbor": 8,
+      "fraction_variants_covered": 0.36363636363636365,
+      "n_unique_peptide_positions_in_structure": 17,
+      "n_unique_positions_covered": 6
+    },
+    {
+      "cutoff_A": 4.5,
+      "n_peptide_variants_in_structure": 22,
+      "n_variants_with_assayed_receptor_neighbor": 9,
+      "fraction_variants_covered": 0.4090909090909091,
+      "n_unique_peptide_positions_in_structure": 17,
+      "n_unique_positions_covered": 7
+    },
+    {
+      "cutoff_A": 5.0,
+      "n_peptide_variants_in_structure": 22,
+      "n_variants_with_assayed_receptor_neighbor": 12,
+      "fraction_variants_covered": 0.5454545454545454,
+      "n_unique_peptide_positions_in_structure": 17,
+      "n_unique_positions_covered": 9
+    },
+    {
+      "cutoff_A": 6.0,
+      "n_peptide_variants_in_structure": 22,
+      "n_variants_with_assayed_receptor_neighbor": 16,
+      "fraction_variants_covered": 0.7272727272727273,
+      "n_unique_peptide_positions_in_structure": 17,
+      "n_unique_positions_covered": 12
+    },
+    {
+      "cutoff_A": 8.0,
+      "n_peptide_variants_in_structure": 22,
+      "n_variants_with_assayed_receptor_neighbor": 20,
+      "fraction_variants_covered": 0.9090909090909091,
+      "n_unique_peptide_positions_in_structure": 17,
+      "n_unique_positions_covered": 16
+    }
+  ],
+  "WT_binding_effect": 0.275927445842779,
+  "WT_binding_displacement_pct": 56.8547501541491
+}
