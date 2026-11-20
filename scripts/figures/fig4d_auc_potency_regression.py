@@ -20,6 +20,11 @@ def parse_args():
         type=Path,
         default=Path(__file__).resolve().parents[2] / "data",
     )
+    parser.add_argument(
+        "--zenodo-root",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
+    )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig4d_auc_potency_regression.svg")
     return parser.parse_args()
 
@@ -38,7 +43,7 @@ def calculate_auc(rows, times, names, group_indices):
                 for row in rows[2:6]
             ]
         )
-        values = np.trapz(data, times, axis=0)
+        values = np.trapezoid(data, times, axis=0)
         values = values[np.isfinite(values)]
         auc[name] = (
             np.mean(values),
@@ -51,7 +56,7 @@ def calculate_auc(rows, times, names, group_indices):
 def main():
     args = parse_args()
     sheet = openpyxl.load_workbook(
-        args.data_root / "in-vivo/in vivo data.xlsx",
+        args.zenodo_root / "in-vivo/in vivo data.xlsx",
         read_only=True,
         data_only=True,
     ).active

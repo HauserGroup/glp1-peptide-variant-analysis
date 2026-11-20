@@ -20,6 +20,11 @@ def parse_args():
         type=Path,
         default=Path(__file__).resolve().parents[2] / "data",
     )
+    parser.add_argument(
+        "--zenodo-root",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
+    )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig4c_glucose_auc.svg")
     return parser.parse_args()
 
@@ -51,7 +56,7 @@ def read_dunnett_pvalues(prism_path):
 def main():
     args = parse_args()
     sheet = openpyxl.load_workbook(
-        args.data_root / "in-vivo/in vivo data.xlsx",
+        args.zenodo_root / "in-vivo/in vivo data.xlsx",
         read_only=True,
         data_only=True,
     ).active
@@ -86,7 +91,7 @@ def main():
                 for row in rows[2:6]
             ]
         )
-        auc = np.trapz(data, times, axis=0)
+        auc = np.trapezoid(data, times, axis=0)
         auc = auc[np.isfinite(auc)]
         mean = np.mean(auc)
         sem = np.std(auc, ddof=1) / np.sqrt(len(auc))
@@ -101,7 +106,7 @@ def main():
         )
         ax.errorbar(i, mean, yerr=sem, fmt="none", c="black", capsize=2)
 
-    pvalues = read_dunnett_pvalues(args.data_root / "in-vivo/In vivo data.prism")
+    pvalues = read_dunnett_pvalues(args.zenodo_root / "in-vivo/In vivo data.prism")
     for height, variant in [(1100, "S14T"), (960, "F28L"), (840, "A30S")]:
         pvalue = pvalues[variant]
         i = names.index(variant)

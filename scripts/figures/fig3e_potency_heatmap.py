@@ -18,6 +18,11 @@ def parse_args():
         type=Path,
         default=Path(__file__).resolve().parents[2] / "data",
     )
+    parser.add_argument(
+        "--zenodo-root",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
+    )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig3e_potency_heatmap.svg")
     return parser.parse_args()
 
@@ -25,7 +30,7 @@ def parse_args():
 def main():
     args = parse_args()
     sheet = openpyxl.load_workbook(
-        args.data_root / "in-vivo/CRC potency.xlsx",
+        args.zenodo_root / "in-vivo/CRC potency.xlsx",
         read_only=True,
         data_only=True,
     ).active

@@ -19,6 +19,11 @@ def parse_args():
         default=Path(__file__).resolve().parents[2] / "data",
     )
     parser.add_argument(
+        "--zenodo-root",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
+    )
+    parser.add_argument(
         "--output",
         type=Path,
         default=Path(__file__).resolve().parents[2] / "output/figures/fig2b_variant_structure.png",
@@ -44,8 +49,8 @@ def binding_color(percent):
 def main():
     args = parse_args()
     models_dir = (
-        args.data_root
-        / "structures/af2-relaxed-selected-structures"
+        args.zenodo_root
+        / "in-silico/02-predictor-benchmark/af2-relaxed-selected-structures"
     )
     binding_path = (
         args.data_root

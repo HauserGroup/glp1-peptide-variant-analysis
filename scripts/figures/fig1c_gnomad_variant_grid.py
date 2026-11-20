@@ -42,6 +42,11 @@ def parse_args():
         type=Path,
         default=Path(__file__).resolve().parents[2] / "data",
     )
+    parser.add_argument(
+        "--zenodo-root",
+        type=Path,
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
+    )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig1c_gnomad_variant_grid.svg")
     return parser.parse_args()
 
@@ -235,9 +240,8 @@ def plot_variant_grid(data, output):
 def main():
     args = parse_args()
     data_path = (
-        args.data_root
-        / "gnomad/"
-        "gnomAD_v4_gcg_missense_glp1_7-37.all_variants.csv"
+        args.zenodo_root
+        / "in-silico/01-af2-mutational-scan/single-nucleotide-variant-accessibility/gnomAD_v4_gcg_missense_glp1_7-37.all_variants.csv"
     )
     data = pd.read_csv(data_path)
     plot_variant_grid(data, args.output)

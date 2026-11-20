@@ -46,7 +46,7 @@ def _merge_individual_scores(data_dir):
 def run():
     ""
     repo_root = pathlib.Path(__file__).resolve().parents[2]
-    data_dir = repo_root / 'data' / 'benchmark' / 'metric-inputs'
+    data_dir = repo_root / 'zenodo-data' / 'in-silico' / '02-predictor-benchmark' / 'metric-inputs'
     out_p = repo_root / 'output' / 'analysis' / 'predictor-benchmark' / 'g1_metrics.csv'
     out_p.parent.mkdir(parents=True, exist_ok=True)
     sources_to_use = [
