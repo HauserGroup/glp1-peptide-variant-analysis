@@ -16,7 +16,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig2c_predictor_correlations.svg")
     return parser.parse_args()
@@ -45,7 +45,7 @@ def main():
     args = parse_args()
     data = pd.read_csv(
         args.data_root
-        / "benchmark/benchmark-scores-22-variants.csv"
+        / "in-silico/02-predictor-benchmark/benchmark-scores-22-variants.csv"
     )
 
     predictors = {

@@ -17,7 +17,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig2d_receptor_neighborhood.svg")
     return parser.parse_args()
@@ -27,8 +27,7 @@ def main():
     args = parse_args()
     data = pd.read_csv(
         args.data_root
-        / "receptor-neighborhood/"
-        "peptide_receptor_neighborhoods.csv"
+        / "in-silico/05-receptor-neighborhood-comparison/peptide_receptor_neighborhoods.csv"
     )
     data = data[(data.cutoff_A == 6) & data.peptide_position.notna()]
     data = data.drop_duplicates("peptide_position")

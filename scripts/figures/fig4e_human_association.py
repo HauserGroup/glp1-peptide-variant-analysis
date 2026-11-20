@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig4e_human_association.svg")
     return parser.parse_args()
@@ -25,7 +25,7 @@ def main():
     args = parse_args()
     data = pd.read_csv(
         args.data_root
-        / "source-data/fig4e_published_aggregate_associations.csv"
+        / "figure-source-data/fig4e_published_aggregate_associations.csv"
     )
 
     fig, ax = plt.subplots(figsize=(7.3, 4))

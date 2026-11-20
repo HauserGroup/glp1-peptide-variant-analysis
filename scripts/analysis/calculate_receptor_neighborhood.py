@@ -1069,7 +1069,7 @@ def build_summary(
 
 def main() -> None:
     repo_root = Path(__file__).resolve().parents[2]
-    inputs = repo_root / "data" / "receptor-neighborhood" / "inputs"
+    inputs = repo_root / "zenodo-data" / "in-silico" / "05-receptor-neighborhood-comparison" / "inputs"
     parser = argparse.ArgumentParser()
     parser.add_argument("--peptide", type=Path, default=inputs / "glp1_peptide_vars.csv")
     parser.add_argument("--receptor", type=Path, default=inputs / "glp1_receptor_vars.csv")

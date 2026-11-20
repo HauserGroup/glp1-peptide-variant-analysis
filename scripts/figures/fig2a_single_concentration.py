@@ -16,7 +16,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig2a_single_concentration.svg")
     return parser.parse_args()
@@ -24,7 +24,7 @@ def parse_args():
 
 def main():
     args = parse_args()
-    source_dir = args.data_root / "source-data"
+    source_dir = args.data_root / "figure-source-data"
     emm = pd.read_csv(source_dir / "fig2a_all_assays_emm.csv")
     replicates = pd.read_csv(
         source_dir / "fig2a_technical_replicates_from_supplementary_table_4.csv"

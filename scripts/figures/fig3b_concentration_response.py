@@ -17,11 +17,6 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
-    )
-    parser.add_argument(
-        "--zenodo-root",
-        type=Path,
         default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig3b_concentration_response.svg")
@@ -57,13 +52,13 @@ def read_response_records(rows, variants, start_column):
 def main():
     args = parse_args()
     workbook = openpyxl.load_workbook(
-        args.zenodo_root / "in-vitro/Raw and normalized data CRCs compiled.xlsx",
+        args.data_root / "in-vitro/Raw and normalized data CRCs compiled.xlsx",
         read_only=True,
         data_only=True,
     )
     pharmacology = pd.read_csv(
         args.data_root
-        / "source-data/fig3_pharmacology_from_supplementary_table_7.csv"
+        / "figure-source-data/fig3_pharmacology_from_supplementary_table_7.csv"
     ).set_index("variant")
 
     variants = [

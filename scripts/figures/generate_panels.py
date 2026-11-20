@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the manuscript figure scripts against curated and Zenodo inputs."""
+"""Run the manuscript figure scripts against the Zenodo data folder."""
 
 import argparse
 import subprocess
@@ -10,21 +10,11 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[2]
 SCRIPT_DIR = Path(__file__).resolve().parent
 STRUCTURE_SCRIPT = "fig2b_variant_structure.py"
-ZENODO_SCRIPTS = {
-    "fig1c_gnomad_variant_grid.py",
-    "fig2b_variant_structure.py",
-    "fig3b_concentration_response.py",
-    "fig3e_potency_heatmap.py",
-    "fig4b_glucose_timecourse.py",
-    "fig4c_glucose_auc.py",
-    "fig4d_auc_potency_regression.py",
-}
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--data-root", type=Path, default=REPO_ROOT / "data")
-    parser.add_argument("--zenodo-root", type=Path, default=REPO_ROOT / "zenodo-data")
+    parser.add_argument("--data-root", type=Path, default=REPO_ROOT / "zenodo-data")
     parser.add_argument("--output-dir", type=Path, default=REPO_ROOT / "output/figures")
     parser.add_argument(
         "--pymol-python", type=Path,
@@ -46,8 +36,6 @@ def main():
         start = time.monotonic()
         command = [str(python), str(script), "--data-root", str(args.data_root),
                    "--output", str(destination)]
-        if script.name in ZENODO_SCRIPTS:
-            command.extend(["--zenodo-root", str(args.zenodo_root)])
         subprocess.run(command, check=True)
         print(f"OK   {destination.name} ({time.monotonic() - start:.1f} s)", flush=True)
     print(f"Figure outputs: {args.output_dir.resolve()}", flush=True)

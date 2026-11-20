@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig1b_gemme_profile.svg")
     return parser.parse_args()
@@ -25,7 +25,7 @@ def main():
     args = parse_args()
     data_path = (
         args.data_root
-        / "source-data/fig1b_original_gemme_scores.csv"
+        / "figure-source-data/fig1b_original_gemme_scores.csv"
     )
     data = pd.read_csv(data_path)
 

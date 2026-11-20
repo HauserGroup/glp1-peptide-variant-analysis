@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig3d_gs_arrestin_bias.svg")
     return parser.parse_args()
@@ -25,7 +25,7 @@ def main():
     args = parse_args()
     data = pd.read_csv(
         args.data_root
-        / "source-data/fig3_bias_from_supplementary_table_8.csv"
+        / "figure-source-data/fig3_bias_from_supplementary_table_8.csv"
     )
     data["bias"] = pd.to_numeric(data.bias, errors="coerce")
     data["bias_sem"] = pd.to_numeric(data.bias_sem, errors="coerce")

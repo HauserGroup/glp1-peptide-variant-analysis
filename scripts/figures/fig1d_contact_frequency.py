@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument(
         "--output",
@@ -27,7 +27,11 @@ def parse_args():
 
 def main():
     args = parse_args()
-    source_dir = args.data_root / "source-data"
+    source_dir = args.data_root / "figure-source-data"
+    receptor_peptide_path = (
+        args.data_root
+        / "in-silico/01-af2-mutational-scan/tables/contact_pair_enrichment_fisher.csv"
+    )
 
     fig, axes = plt.subplots(
         1,
@@ -37,12 +41,12 @@ def main():
         sharey=True,
     )
     panels = [
-        ("intra_receptor", "Intra-receptor"),
-        ("receptor_peptide", "Receptor–peptide"),
+        ("Intra-receptor", source_dir / "fig1d_intra_receptor_all_contacts.csv"),
+        ("Receptor–peptide", receptor_peptide_path),
     ]
 
-    for ax, (name, title) in zip(axes, panels):
-        data = pd.read_csv(source_dir / f"fig1d_{name}_all_contacts.csv")
+    for ax, (title, table_path) in zip(axes, panels):
+        data = pd.read_csv(table_path)
         x_col = "frequency_group_a_variant_level"
         y_col = "frequency_group_b_variant_level"
 

@@ -16,7 +16,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig2e_af3_contact_enrichment.svg")
     return parser.parse_args()
@@ -24,7 +24,7 @@ def parse_args():
 
 def main():
     args = parse_args()
-    table_dir = args.data_root / "af3-contact-enrichment"
+    table_dir = args.data_root / "in-silico/04-af3-contact-enrichment/tables"
     contacts = pd.read_csv(table_dir / "contact-enrichment-all-tested.csv")
     summary = pd.read_csv(table_dir / "peptide-position-effect-summary.csv")
 

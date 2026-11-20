@@ -15,7 +15,7 @@ def parse_args():
     parser.add_argument(
         "--data-root",
         type=Path,
-        default=Path(__file__).resolve().parents[2] / "data",
+        default=Path(__file__).resolve().parents[2] / "zenodo-data",
     )
     parser.add_argument("--output", type=Path, default=Path(__file__).resolve().parents[2] / "output/figures/fig3c_arrestin_efficacy.svg")
     return parser.parse_args()
@@ -25,7 +25,7 @@ def main():
     args = parse_args()
     data = pd.read_csv(
         args.data_root
-        / "source-data/fig3_pharmacology_from_supplementary_table_7.csv"
+        / "figure-source-data/fig3_pharmacology_from_supplementary_table_7.csv"
     )
     data["arrestin_Emax"] = pd.to_numeric(data.arrestin_Emax, errors="coerce")
     data["arrestin_Emax_SEM"] = pd.to_numeric(
