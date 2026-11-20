@@ -1,0 +1,6 @@
+Download and extract all files from the Zenodo into './zenodo-data'.
+    Expected subdirectories are:
+        ./in-silico
+        ./in-vitro
+        ./in-vivo
+        ./Human phenotype and rare-variant association analysis

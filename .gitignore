@@ -224,4 +224,8 @@ __marimo__/
 .DS_Store
 
 # Downloaded and extracted Zenodo data
-/zenodo-data/
+/zenodo-data/*
+
+# Do NOT ignore instructions.txt
+!/zenodo-data/instructions.txt
+
