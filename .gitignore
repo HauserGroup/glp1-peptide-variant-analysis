@@ -220,7 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Generated figures and macOS metadata
-/output/
+/output/*
 !/output/instructions.txt
 .DS_Store
 
